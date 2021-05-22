@@ -1,0 +1,10 @@
+/*=============== Google Font Import =================*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+/*=============== CSS Variables ===================*/
+:root{
+    --header-height: 3rem;
+    /* =========== Colors =========== */
+
+    /* =========== Font and Typography ==========*/
+    --body-font: 'Poppins','sans serif';
+}
